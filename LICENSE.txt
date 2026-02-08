@@ -1,0 +1,8 @@
+Copyright (c) 2026 Vosoone.cz
+
+All rights reserved.
+
+This software and its source code are the exclusive property of Vosoone.cz.
+You may not copy, distribute, modify, or sell this software without express written permission from the organization.
+
+For licensing inquiries, contact: kontakt@vosoone.cz
