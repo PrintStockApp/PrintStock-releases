@@ -1,8 +1,12 @@
 Copyright (c) 2026 Vosoone.cz
-
 All rights reserved.
 
-This software and its source code are the exclusive property of Vosoone.cz.
-You may not copy, distribute, modify, or sell this software without express written permission from the organization.
+This software and its source code are the exclusive property of Vosoone.cz. You may not copy, distribute, modify, or sell this software without express written permission from the organization.
+
+The user is granted a non-exclusive, non-transferable license to use the PrintStock application for personal or internal purposes.
+
+You may not decompile, reverse engineer, bypass security mechanisms, or remove copyright notices.
+
+This software is provided "as is", without warranty of any kind. Vosoone.cz shall not be liable for any damages arising from the use of this software.
 
 For licensing inquiries, contact: kontakt@vosoone.cz
