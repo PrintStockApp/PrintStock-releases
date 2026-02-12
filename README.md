@@ -1,4 +1,4 @@
-# ![PrintStock Logo](/print-stock-logo-white.png) PrintStock
+# <img src="/print-stock-logo-white.png" alt="PrintStock Logo" style="width:50px;"> PrintStock
 
 **PrintStock** je desktopová aplikace pro přehlednou **správu filamentů pro 3D tisk**.  
 
