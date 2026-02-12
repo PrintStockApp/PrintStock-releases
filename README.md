@@ -72,11 +72,28 @@ Použité knihovny:
 
 ## 📄 Licence
 
-PrintStock je **open-source software** a je šířen pod licencí **MIT License**.  
-To znamená, že:
-- můžete aplikaci používat, kopírovat a upravovat pro osobní i komerční účely,  
-- můžete ji distribuovat i bez poplatků,  
-- autor nenese odpovědnost za případné problémy nebo škody způsobené používáním aplikace.  
+Copyright (c) 2026 Vosoone.cz  
+All rights reserved.
 
-Pro kompletní znění licence viz soubor [LICENSE](https://github.com/PrintStockApp/PrintStock/blob/main/LICENSE).
+**PrintStock** a jeho zdrojový kód jsou výhradním majetkem Vosoone.cz.  
+Bez výslovného písemného souhlasu organizace nesmíte software kopírovat, distribuovat, upravovat ani prodávat.
+
+Uživatel získává **nevýhradní a nepřenosnou licenci** k používání aplikace PrintStock pro osobní nebo interní účely.
+
+Je zakázáno:
+- dekompilovat nebo reverzně analyzovat software,  
+- obejít bezpečnostní mechanismy,  
+- odstraňovat informace o autorských právech.
+
+Software je poskytován **„tak jak je“**, bez jakýchkoliv záruk.  
+Vosoone.cz nenese odpovědnost za škody vzniklé používáním aplikace.
+
+Pro dotazy ohledně licence kontaktujte: [kontakt@vosoone.cz](mailto:kontakt@vosoone.cz)
+
+---
+
+## 🌐 Další informace
+
+Více informací naleznete na webu: [printstock.vosoone.cz](https://printstock.vosoone.cz)
+
 
