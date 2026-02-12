@@ -37,10 +37,7 @@ To je mnohem víc než jen tabulka v Excelu 😉.
 ## 🛠️ Technologie
 
 PrintStock je postavený jako **Electron desktop aplikace**, takže běží na Windows, macOS i Linuxu – offline i bez připojení.  
-Použité knihovny:
-- 📊 **Chart.js** – grafy a vizualizace dat (MIT license)  
-- 🗃 **lowdb / uuid / electron-store** – pro ukládání dat a identifikátory  
-- 🔄 **electron-updater** – automatické aktualizace  
+
 - 🖥 **Electron** – multiplatformní prostředí
 
 ---
@@ -48,7 +45,7 @@ Použité knihovny:
 ## 🛠️ Instalace a spuštění
 
 1. **Stáhněte si instalátor**  
-   Stáhněte nejnovější verzi Windows z [GitHub Releases](https://github.com/PrintStockApp/PrintStock/releases) – soubor `PrintStock-Setup.exe`.
+   Stáhněte nejnovější verzi Windows z [GitHub Releases](https://github.com/PrintStockApp/PrintStock-releases/releases) – soubor `PrintStock-Setup.exe`.
 
 2. **Spusťte instalaci**  
    - Dvojklik na `PrintStock-Setup.exe`  
