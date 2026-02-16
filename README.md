@@ -20,6 +20,12 @@ Ať už tisknete doma, ve fabrice nebo v maker space, PrintStock vám pomůže m
 - 🔄 **Update aplikace podporován**  
   Aplikace může kontrolovat nové verze přes GitHub Releases.
 
+- 🧮 **Výpočet ceny 3D tisku**
+  Integrovaná kalkulačka přesně spočítá náklady na tisk.
+
+- 🗓️ **Plánovač zakázek**
+  Plánovač ve stylu kanban vám umožní lépe rozvrhnout své zakázky.
+
 ---
 
 ## 🧠 Proč to vzniklo
