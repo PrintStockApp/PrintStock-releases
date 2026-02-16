@@ -8,23 +8,17 @@ Ať už tisknete doma, ve fabrice nebo v maker space, PrintStock vám pomůže m
 
 ## 🚀 Co PrintStock umí
 
-- 📊 **Přehled skladových zásob filamentů** - 
-  Zobrazuje, kolik máte z každého materiálu a barvy.
+- 📊 **Přehled skladových zásob filamentů** - Zobrazuje, kolik máte z každého materiálu a barvy.
   
-- 📈 **Statistiky spotřeby** - 
-  Sledujte, jak rychle filament mizí podle tisků (grafy, čísla).
+- 📈 **Statistiky spotřeby** - Sledujte, jak rychle filament mizí podle tisků (grafy, čísla).
   
-- 📥 **Import / Export dat** - 
-  Snadno přeneste informace mezi zařízeními nebo zálohujte.
+- 📥 **Import / Export dat** - Snadno přeneste informace mezi zařízeními nebo zálohujte.
   
-- 🔄 **Update aplikace podporován** - 
-  Aplikace může kontrolovat nové verze přes GitHub Releases.
+- 🔄 **Update aplikace podporován** - Aplikace může kontrolovat nové verze přes GitHub Releases.
   
-- 🧮 **Výpočet ceny 3D tisku** - 
-  Integrovaná kalkulačka přesně spočítá náklady na tisk.
+- 🧮 **Výpočet ceny 3D tisku** - Integrovaná kalkulačka přesně spočítá náklady na tisk.
   
-- 🗓️ **Plánovač zakázek** - 
-  Plánovač ve stylu kanban vám umožní lépe rozvrhnout své zakázky.
+- 🗓️ **Plánovač zakázek** - Plánovač ve stylu kanban vám umožní lépe rozvrhnout své zakázky.
 
 ---
 
