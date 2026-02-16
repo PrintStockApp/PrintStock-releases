@@ -14,10 +14,10 @@ Ať už tisknete doma, ve fabrice nebo v maker space, PrintStock vám pomůže m
 - 📈 **Statistiky spotřeby**  
   Sledujte, jak rychle filament mizí podle tisků (grafy, čísla).
 
-- 📥 **Import / Export dat**  
+- 📥 **Import / Export dat**
   Snadno přeneste informace mezi zařízeními nebo zálohujte.
 
-- 🔄 **Update aplikace podporován**  
+- 🔄 **Update aplikace podporován**
   Aplikace může kontrolovat nové verze přes GitHub Releases.
 
 - 🧮 **Výpočet ceny 3D tisku**
